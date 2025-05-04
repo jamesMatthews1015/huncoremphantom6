@@ -1,8 +1,8 @@
 {
   "TRAFFIC": "Eleven my bestie!",
   "SPOOF": "3",
-  "ASSET_MIN": "10",
-  "TOTAL_MIN": "10",
+  "ASSET_MIN": "40",
+  "TOTAL_MIN": "40",
   "MODAL_STYLE": "0",
   "DARK_MODE": true,
   "LOADING_MESSAGE": "Preparing to Mint",
